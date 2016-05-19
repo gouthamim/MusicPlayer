@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/song1"
+        android:text="Why not me"
+        android:textSize="24sp"
+        android:textStyle="italic"
+        android:layout_margin="24dp" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/song2"
+        android:text="Sean Kingston, Beautiful Girls"
+        android:textSize="24sp"
+        android:textStyle="italic"
+        android:layout_margin="24dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/song3"
+        android:text="Beat it"
+        android:textSize="24sp"
+        android:textStyle="italic"
+        android:layout_margin="24dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/song4"
+        android:text="Dheere Dheere"
+        android:textSize="24sp"
+        android:textStyle="italic"
+        android:layout_margin="24dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/song5"
+        android:text="Abhi Mujh Mein Kahin"
+        android:textSize="24sp"
+        android:textStyle="italic"
+        android:layout_margin="24dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+</LinearLayout>
